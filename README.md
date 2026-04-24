@@ -1,8 +1,8 @@
 # Quick Installation Script 🚀
 
 ``` tx=
-git clone https://github.com/linyh212/linyh-arch.git ~/linyh-arch
-cd ~/linyh-arch
+git clone https://github.com/linyh212/arch.git ~/arch
+cd ~/arch
 chmod +x install.sh
 ./install.sh 
 ```
